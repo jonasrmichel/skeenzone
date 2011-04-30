@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/whochat" android:menuCategory="container" android:icon="@drawable/ic_menu_happy" android:titleCondensed="@string/whochat" android:orderInCategory="1" android:id="@+id/menuitem_whochat"></item><item android:menuCategory="container" android:id="@+id/menuitem_wholocal" android:title="@string/wholocal" android:titleCondensed="@string/wholocal" android:icon="@drawable/ic_menu_globe" android:orderInCategory="2"></item>
+    <item android:title="@string/invite" android:icon="@drawable/ic_menu_resize" android:titleCondensed="@string/invite" android:menuCategory="container" android:id="@+id/menuitem_invite" android:orderInCategory="3"></item>
+    <item android:title="@string/mychats" android:titleCondensed="@string/mychats" android:menuCategory="container" android:icon="@drawable/ic_menu_dialog" android:id="@+id/menuitem_mychats" android:orderInCategory="4"></item>
+    <item android:title="@string/leave" android:icon="@drawable/ic_menu_exit" android:titleCondensed="@string/leave" android:menuCategory="container" android:id="@+id/menuitem_leave" android:orderInCategory="5"></item>
+    
+</menu>

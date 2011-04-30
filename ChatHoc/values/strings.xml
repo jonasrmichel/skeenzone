@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatHoc</string>
+    <string name="input">Enter message</string>
+    <string name="send">Send</string>
+    <string name="create">Create Chat</string>
+    <string name="invite">Invite User</string>
+    <string name="leave">Leave Chat</string>
+    <string name="whochat">Who\'s Chatting?</string>
+    <string name="wholocal">Who\'s Available?</string><string name="mychats">My Chats</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="chatname">Chat Name</string>
+    <string name="ipaddress">IP Address</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="myip">My IP Address</string>
+    <string name="username">User Name</string>
+    <string name="welcome">Welcome to SkeenZone\'s ChatHoc!</string>
+    <string name="switchchat">Switch</string>
+    <string name="incoming">Incoming Chat Invitation</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="dupchat">Duplicate Chat Name (please pick another)</string>
+    
+</resources>

@@ -1,0 +1,3 @@
+#summary ChatHoc is the chat app for Android developed using SkeenZone
+
+*ChatHoc* is the chat app for Android developed using SkeenZone
